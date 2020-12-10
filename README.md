@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning kotlin
 - 👯 I’m interested in fullstack fintech projects
+- 😄 I like angular, spring, laravel, kotlin, complex problems
